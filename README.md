@@ -13,6 +13,8 @@ __Special Mention:__ [TMDB API](https://developers.themoviedb.org/3) for providi
 <br>
 ![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree2.JPG)
 <br>
+![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree7.JPG)
+<br>
 ![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree3.JPG)
 <br>
 ![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree4.JPG)
