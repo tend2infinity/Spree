@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title": "Enjoy watching movies?",
+        "subTitle": "",
+        "image": "/pictures/homepage-cutlets/img1.jpg",
+        "direction": "row"
+    },
+    {
+        "id": 2,
+        "title": "Dedicated enough to complete a whole series in one night?",
+        "subTitle": "",
+        "image": "/pictures/homepage-cutlets/img2.jpg",
+        "direction": "row-reverse"
+    },
+    {
+        "id":3,
+        "title":"Why don't you register on Spree!",
+        "subTitle": "",
+        "image": "/pictures/homepage-cutlets/img3.jpg",
+        "direction": "row"
+    },
+    {
+        "id":4,
+        "title":"Sit back, relax, take some friends with yourself and just Spreeeee!",
+        "subTitle":"",
+        "image":"/pictures/homepage-cutlets/img4.jpg",
+        "direction":"row-reverse"
+    }
+]
