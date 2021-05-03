@@ -6,9 +6,9 @@
 
 ***
 __Special Mention:__ [TMDB API](https://developers.themoviedb.org/3) for providing the amazing database of movies.
-## Main Features
 
-### Screenshots
+
+## Screenshots
 ![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree1.JPG)
 <br>
 ![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree2.JPG)
@@ -20,6 +20,8 @@ __Special Mention:__ [TMDB API](https://developers.themoviedb.org/3) for providi
 ![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree5.JPG)
 <br>
 ![](https://github.com/tend2infinity/Spree/blob/master/public/screenshots/spree6.JPG)
+
+## Main Features
 
 ### Landing Page
 The landing page gives us a brief introduction about this app. Anyone can Signup if its a new user or login if its an old one. The syling of all the pages inside the app is done using "styled-components". AOS library (animate on scroll) is used to animate the content while scrolling!
