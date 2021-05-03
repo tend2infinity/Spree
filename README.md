@@ -78,7 +78,7 @@ The footer of every page contains developer contact, so that for any bug anyone 
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/tend2infinity/Rate-It-Project
+   git clone https://github.com/tend2infinity/Spree
    ```
 2. Install NPM packages
 
